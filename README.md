@@ -17,8 +17,6 @@ Sistema completo de gestión para restaurantes con roles de Mozo, Cocina y Caja.
 - ✅ Escalable para múltiples sucursales
 - ✅ Analytics histórico completo
 
-📖 **[Ver guía de migración a Supabase →](SUPABASE_SETUP.md)**
-
 ---
 
 ## 🎨 Características de Diseño
